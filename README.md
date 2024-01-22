@@ -1,6 +1,6 @@
 # Unity-Mando
 
-My first unity project in C++ for school I was only three weeks old I chose to make an rpg.
+My first unity project in C# for school I was only three weeks old I chose to make an rpg.
 
 
 ## Description of my project
